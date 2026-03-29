@@ -9,9 +9,9 @@ Campr is an online campgrounds discovery and review site.
 ## Description
 
 
-## Visuals
+## Showcase
 
-- add screenshots / gif
+See what the site looks like [here](/showcase/)
 
 ## Installation
 
