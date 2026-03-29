@@ -2,7 +2,7 @@
 
 Campr is an online campgrounds discovery and review site. 
 
-![homepage](/attachments/homepage.png)
+![homepage](/showcase/homepage.png)
 
 ### Known issues and bugs
 
